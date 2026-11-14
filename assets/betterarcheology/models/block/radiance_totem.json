@@ -1,6 +1,7 @@
 {
-	"parent": "minecraft:block/template_lantern",
+	"parent": "minecraft:block/lantern",
 	"textures": {
-		"lantern": "betterarcheology:block/radiance_totem"
+		"0": "betterarcheology:block/radiance_totem",
+		"particle": "betterarcheology:block/radiance_totem"
 	}
 }

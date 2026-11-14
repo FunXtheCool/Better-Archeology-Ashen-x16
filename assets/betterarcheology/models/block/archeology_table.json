@@ -1,10 +1,11 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "betterarcheology:block/archeology_table/archeology_table_front",
 		"1": "betterarcheology:block/archeology_table/archeology_table_side",
 		"2": "betterarcheology:block/archeology_table/archeology_table_top",
 		"3": "betterarcheology:block/archeology_table/archeology_table_bottom",
+		"4": "betterarcheology:block/archeology_table/archeology_table_front1",
+		"5": "betterarcheology:block/archeology_table/archeology_table_side1",
 		"particle": "betterarcheology:block/archeology_table/archeology_table_front"
 	},
 	"elements": [
@@ -12,8 +13,8 @@
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#5"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
@@ -37,7 +38,7 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 225, 0],
+			"rotation": [0, -135, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
@@ -45,7 +46,7 @@
 			"scale": [0.25, 0.25, 0.25]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
+			"rotation": [30, -135, 0],
 			"scale": [0.625, 0.625, 0.625]
 		},
 		"fixed": {

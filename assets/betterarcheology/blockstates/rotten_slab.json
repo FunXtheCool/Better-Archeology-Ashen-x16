@@ -1,13 +1,17 @@
 {
   "variants": {
-    "type=bottom": {
-      "model": "betterarcheology:block/rotten_slab"
-    },
+    "type=bottom": [
+      {"model": "betterarcheology:block/rotten_slab"},
+      {"model": "betterarcheology:block/rotten_slab1"},
+      {"model": "betterarcheology:block/rotten_slab2"}
+    ],
     "type=double": {
-      "model": "betterarcheology:block/rotten_planks"
+      "model": "betterarcheology:block/rotten_double"
     },
-    "type=top": {
-      "model": "betterarcheology:block/rotten_slab_top"
-    }
+    "type=top": [
+      {"model": "betterarcheology:block/rotten_slab_top"},
+      {"model": "betterarcheology:block/rotten_slab_top1"},
+      {"model": "betterarcheology:block/rotten_slab_top2"}
+    ]
   }
 }

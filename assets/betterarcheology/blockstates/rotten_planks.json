@@ -1,7 +1,9 @@
 {
   "variants": {
-    "": {
-      "model": "betterarcheology:block/rotten_planks"
-    }
+    "": [
+    {"model": "betterarcheology:block/rotten_planks"},
+    {"model": "betterarcheology:block/rotten_planks1"},
+    {"model": "betterarcheology:block/rotten_planks2"}
+  ]
   }
 }
