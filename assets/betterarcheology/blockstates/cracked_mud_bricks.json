@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+    {"model": "betterarcheology:block/cracked_mud_bricks"},
+    {"model": "betterarcheology:block/cracked_mud_bricks1"},
+    {"model": "betterarcheology:block/cracked_mud_bricks2"}
+    ]
+  }
+}

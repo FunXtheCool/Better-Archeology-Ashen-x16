@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "type=bottom": [
+      {"model": "betterarcheology:block/cracked_mud_brick_slab"},
+      {"model": "betterarcheology:block/cracked_mud_brick_slab1"},
+      {"model": "betterarcheology:block/cracked_mud_brick_slab2"}
+    ],
+    "type=double": {
+      "model": "betterarcheology:block/cracked_mud_brick_double"
+    },
+    "type=top": [
+      {"model": "betterarcheology:block/cracked_mud_brick_slab_top"},
+      {"model": "betterarcheology:block/cracked_mud_brick_slab_top1"},
+      {"model": "betterarcheology:block/cracked_mud_brick_slab_top2"}
+    ]
+  }
+}

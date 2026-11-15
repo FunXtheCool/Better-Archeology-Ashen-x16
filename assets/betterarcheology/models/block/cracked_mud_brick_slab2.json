@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "betterarcheology:block/cracked_mud_bricks2",
+    "side": "betterarcheology:block/cracked_mud_bricks2",
+    "top": "betterarcheology:block/cracked_mud_bricks2"
+  }
+}
