@@ -23,7 +23,7 @@
     "facing=east,half=bottom,shape=straight": [
     {"model": "betterarcheology:block/cracked_mud_brick_stairs"},
     {"model": "betterarcheology:block/rotten_stairs1"},
-    {"model": "betterarcheology2:block/rotten_stairs2"}
+    {"model": "betterarcheology:block/rotten_stairs2"}
     ],
     "facing=east,half=top,shape=inner_left": [
     {"model": "betterarcheology:block/cracked_mud_brick_stairs_inner","uvlock": true,"x": 180},
@@ -103,7 +103,7 @@
     "facing=south,half=bottom,shape=inner_left": [
     {"model": "betterarcheology:block/cracked_mud_brick_stairs_inner"},
     {"model": "betterarcheology:block/rotten_stairs_inner1"},
-    {"model": "betterarcheology2:block/rotten_stairs_inner2"}
+    {"model": "betterarcheology:block/rotten_stairs_inner2"}
     ],
     "facing=south,half=bottom,shape=inner_right": [
     {"model": "betterarcheology:block/cracked_mud_brick_stairs_inner","uvlock": true,"y": 90},
@@ -113,7 +113,7 @@
     "facing=south,half=bottom,shape=outer_left": [
     {"model": "betterarcheology:block/cracked_mud_brick_stairs_outer"},
     {"model": "betterarcheology:block/rotten_stairs_outer1"},
-    {"model": "betterarcheology2:block/rotten_stairs_outer2"}
+    {"model": "betterarcheology:block/rotten_stairs_outer2"}
     ],
     "facing=south,half=bottom,shape=outer_right": [
     {"model": "betterarcheology:block/cracked_mud_brick_stairs_outer","uvlock": true,"y": 90},
