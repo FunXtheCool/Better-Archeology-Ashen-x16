@@ -1,6 +1,4 @@
 {
-	"format_version": "26.3",
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "betterarcheology:block/rotten_door_bottom",
 		"2": "betterarcheology:block/rotten_door_sides",
