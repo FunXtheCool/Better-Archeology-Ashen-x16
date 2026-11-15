@@ -22,7 +22,7 @@
     ],
     "facing=east,half=bottom,shape=straight": [
     {"model": "betterarcheology:block/rotten_stairs"},
-    {"model": "betterarcheology:block1/rotten_stairs"},
+    {"model": "betterarcheology:block/rotten_stairs"},
     {"model": "betterarcheology2:block/rotten_stairs"}
     ],
     "facing=east,half=top,shape=inner_left": [
@@ -102,7 +102,7 @@
     ],
     "facing=south,half=bottom,shape=inner_left": [
     {"model": "betterarcheology:block/rotten_stairs_inner"},
-    {"model": "betterarcheology:block1/rotten_stairs_inner"},
+    {"model": "betterarcheology:block/rotten_stairs_inner"},
     {"model": "betterarcheology2:block/rotten_stairs_inner"}
     ],
     "facing=south,half=bottom,shape=inner_right": [
@@ -112,7 +112,7 @@
     ],
     "facing=south,half=bottom,shape=outer_left": [
     {"model": "betterarcheology:block/rotten_stairs_outer"},
-    {"model": "betterarcheology:block1/rotten_stairs_outer"},
+    {"model": "betterarcheology:block/rotten_stairs_outer"},
     {"model": "betterarcheology2:block/rotten_stairs_outer"}
     ],
     "facing=south,half=bottom,shape=outer_right": [
